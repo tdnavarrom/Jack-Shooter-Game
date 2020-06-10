@@ -1,3 +1,3 @@
-# Final-Organizacion
+# Jack-Shooter-Game
 
-Proyecto Final de Organizacion de Computadores, Paralelismo en Java con Threads y Juego en Jack
+Shooter Game made with JACK Language, needs nandtotetris
